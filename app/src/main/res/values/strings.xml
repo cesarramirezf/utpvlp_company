@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">UTPVLP</string>
+
+    <string name="dev_data">Desarrollado por Ing. César Ramírez Filomena</string>
+
+    <!-- Splash Screen -->
+    <string name="de_ss_t">de</string>
+    <string name="ut_ss_t">Unión Temporal</string>
+    <string name="pvlp_ss_t">Proyecto Vial Los Patios</string>
+
+    <!-- Bottom Navigation-->
+    <string name="nav_company">Nosotros</string>
+    <string name="nav_flat_point">Camaras</string>
+    <string name="nav_movil_point">Radares</string>
+    <string name="nav_contact_us">Contacto</string>
+
+    <!--Fragment_Company-->
+    <string name="nombre_utpvlp">Unión Temporal Proyecto Vial Los Patios</string>
+
+    <string name="asp_th_1_d_fc">
+        Reclutamos en nuestro equipo a profesionales, tecnólogos y técnicos,
+        proporcionando a la entidad estabilidad, continuidad en el servicio y excelente operatividad.
+    </string>
+    <string name="asp_th_2_d_fc">
+        Cumplimos a cabalidad lo comprometido contractualmente, aportamos estabilidad y excelentes
+        condiciones laborales.
+    </string>
+    <string name="asp_th_3_d_fc">
+        Generamos empleo; nuestra nomina está integrada en un 90% con personal del municipio, ratificando
+        nuestro compromiso con el municipio.
+    </string>
+    <string name="asp_th_4_d_fc">
+        Cumplimos los protocolos de bioseguridad en nuestras instalaciones. Tenemos los menores índices
+        de contagio en el municipio de Los Patios.
+    </string>
+    <string name="asp_ia_1_d_fc">
+        En el año 2014 se propuso disminuir los altos índices de accidentalidad en la avenida principal (Av. 10)
+        del municipio de Los Patios, lo cual dio punto de partida a la Unión Temporal Proyecto Vial Los Patios.
+    </string>
+    <string name="asp_ia_11_d_fc">
+        En el año 2016, el promedio mensual de accidentes de tránsito era de 12, para el año 2020
+        fue de 5, un mínimo histórico para el municipio. Esta notable reducción en accidentalidad vial,
+        en gran medida se debe al control con medios tecnológicos y otras acciones conjuntas de UTPVLP.
+    </string>
+    <string name="asp_ia_2_d_fc">
+        Un estudio realizado, posiciono a los accidentes de tránsito como la séptima causa de morbilidad en el mundo.
+        Es la primera causa de muerte en las personas menores de 40 años. OMS, WORLD HEALTH STATISTICS REPORT. 2008.
+    </string>
+    <string name="asp_ia_3_d_fc">
+        En Colombia, la accidentalidad vial es la segunda causa de muerte violenta, representando un 21%.
+    </string>
+    <string name="asp_ia_4_d_fc">
+        Colombia perdió cerca de 3 billones de pesos por siniestros viales en el año 2007.
+        Esto evidencia, el dramático problema de salud pública que representa la accidentalidad vial y
+        la urgencia en la adopción de medidas que frenen estas tendencias y las mitiguen.
+        Este fenómeno es un factor de fuerte impacto en términos humanos y económicos.
+    </string>
+    <string name="asp_ia_5_d_fc">
+        La alta velocidad es una de las principales causas de accidentalidad; por lo que en muchos países
+        se optó por medidas de control policial y electrónico, políticas de seguridad vial y
+        construcción o adecuación de la infraestructura vial.
+    </string>
+
+    <string name="asp_sv_1_d_fc">
+        Promovemos la seguridad vial en el municipio de Los Patios, a traves de:
+    </string>
+    <string name="asp_sv_2_d_fc">
+        - Campañas de sensibilización sobre normas de tránsito y seguridad vial.
+    </string>
+    <string name="asp_sv_3_d_fc">
+        - Señalización vial móvil y fija.
+    </string>
+    <string name="asp_sv_4_d_fc">
+        - Mantenimiento a la red semafórica del municipio.
+    </string>
+    <string name="asp_sv_5_d_fc">
+        - Mantenimiento a las cámaras salvavidas.
+    </string>
+    <string name="asp_sv_6_d_fc">
+        - Control de velocidad en zonas escolares y puntos de alta accidentalidad.
+    </string>
+    <string name="asp_rs_1_d_fc">
+        Tenemos 4 puntos de red semafórica en el municipio, los cuales son:
+    </string>
+    <string name="asp_rs_2_d_fc">
+        - Hospital, Av. 10 Calle 7.
+    </string>
+    <string name="asp_rs_3_d_fc">
+        - Samaritana, Av. 10 Calle 25.
+    </string>
+    <string name="asp_rs_4_d_fc">
+        - Banderas, Av. 10 Calle 33.
+    </string>
+    <string name="asp_rs_5_d_fc">
+        - Gas Rosario, Av. 10 Calle 37.
+    </string>
+    <string name="asp_rs_6_d_fc">
+        Contamos con una red semafórica inteligente y de última tecnología.
+        Proveemos control de tráfico con equipos robustos y modulares; integrando sistemas
+        de comunicación.
+    </string>
+    <string name="asp_rs_7_d_fc">
+        Sufragamos costos de instalación, mantenimiento, soporte y reparación de toda la
+        red semafórica en el municipio de Los Patios.
+    </string>
+    <string name="asp_rs_8_d_fc">
+        Nuestro personal  esta capacitado y cuenta con el equipo necesario para dar una pronta y
+        oportuna respuesta a las autoridades y comunidad.
+    </string>
+    <string name="asp_mc_1_d_fc">
+        La Unión Temporal Proyecto Vial Los Patios suscribio el contrato de concesión 01-2015 con el
+        Instituto de transito y transporte de Los Patios (ITTPL), al ofrecer las mayores ventajas y
+        beneficios para el municipio de Los Patios.
+    </string>
+    <string name="asp_mc_2_d_fc">
+        En el año 2019, se llevó a cabo el proceso de autorización para dos puntos de fotodetección fija
+        y 2 móviles (SAST), obteniendo la resolución de aprobación para operar por parte del
+        Ministerio de Transporte.
+    </string>
+    <string name="asp_mc_3_d_fc">
+        Contamos con certificación de calibración para los radares móviles (SAST), se renueva anualmente.
+    </string>
+    <string name="asp_mc_4_d_fc">
+        Cumplimos los criterios y requerimientos establecidos en la Resolución número 20203040011245 del
+        20-08-2020.
+    </string>
+    <string name="asp_mc_5_d_fc">
+        Nuestros sistemas de fotodetección son regulados por la ley 1843 del 2017 y el código
+        de nacional de transito terrestre (ley 769 del 2002).
+    </string>
+    <string name="asp_mc_6_d_fc">
+        Nuestros puntos de fotodetección, fueron autorizados por el Ministerio
+        de Transporte mediante las siguientes solicitudes:
+    </string>
+    <string name="asp_mc_7_d_fc">
+        - Gas Rosario, SOL0000002141.
+    </string>
+    <string name="asp_mc_8_d_fc">
+        - Hospital, SOL0000002142.
+    </string>
+    <string name="asp_mc_9_d_fc">
+        - Comfanorte, SOL0000000901.
+    </string>
+    <string name="asp_mc_10_d_fc">
+        - Once de noviembre, SOL0000000941.
+    </string>
+    <string name="asp_mc_11_d_fc">
+        - Pizareal, SOL0000000961.
+    </string>
+    <string name="asp_mc_12_d_fc">
+        - Montebello, SOL0000000962.
+    </string>
+    <string name="asp_rc_1_d_fc">
+        En el contrato de concesión 01-2015, se determinó que el 40% del recaudo le corresponde
+        al municipio de Los Patios, el 10% al SIMIT y el 6% interventoria.
+    </string>
+    <string name="asp_rc_2_d_fc">
+        El recaudo entra directamente a la fiduciaria popular, que conforme al contrato, realiza una revisión
+        fiscal y auditoria.
+    </string>
+    <string name="asp_rc_3_d_fc">
+        Presentamos rendición de cuentas de forma trimestral en el concejo municipal.
+    </string>
+    <string name="asp_rc_4_d_fc">
+        La mayor parte de implementos y servicios se adquieren dentro municipio de los Patios, contribuyendo
+        de forma directa y positiva en su economía.
+    </string>
+    <string name="seguridad_vial_title">Seguridad Vial</string>
+    <string name="indices_accidentalidad_title">Indices de Accidentalidad</string>
+    <string name="talento_humano_title">Talento Humano</string>
+    <string name="semaforos_title">Red Semaforica</string>
+    <string name="leyes_title">Marco Legal</string>
+    <string name="recaudo_title">Recaudo</string>
+
+    <!--Fragment_flat_point-->
+    <string name="info_t_fp">Camaras fijas</string>
+    <string name="ubicacion_t_fp">Ubicación</string>
+
+    <string name="ubic_n_gr_fp">Gas Rosario</string>
+    <string name="ubic_d_gr_fp">Av 10 Calle 37</string>
+
+    <string name="ubi_n_h_fp">Hospital</string>
+    <string name="ubi_d_h_fp">Av 10 Calle 7</string>
+
+    <string name="infracciones_t_fp">Infracciónes</string>
+
+    <string name="infr_c15">
+        C15: Conducir un vehículo, particular o de servicio público, excediendo la capacidad autorizada
+        en la licencia de tránsito o tarjeta de operación.
+    </string>
+    <string name="infr_c19">
+        C19: Dejar o recoger pasajeros en sitios distintos de los demarcados por las autoridades, al
+        costado derecho de la vía, salvo en paraderos especiales de vías troncales que sean diseñadas
+        y operadas con destinación exclusiva al transporte público masivo.
+    </string>
+    <string name="infr_c24">
+        C24: Conducir motocicleta sin observar las normas establecidas en el presente código, según
+        resolución No 3027 del 26 de Julio de 2010, expedida por el Ministerio de Transporte.
+    </string>
+    <string name="infr_c27">
+        C27: Conducir un vehículo cuya carga o pasajeros obstruyan la visibilidad del conductor
+        hacia el frente, atrás o costados, o impidan el control sobre el sistema de dirección,
+        frenos o seguridad.
+    </string>
+    <string name="infr_c31">
+        C31: No acatar las señales o requerimientos impartidos por los agentes de tránsito.
+    </string>
+    <string name="infr_c32">
+        C32: No respetar el paso de peatones que cruzan una vía en sitio permitido para ellos,
+        o no darles la prelación en las franjas para ello establecidas.
+    </string>
+    <string name="infr_c37">
+        C37: Transportar pasajeros en el platón de una camioneta picó o en la plataforma de un
+        vehículo de carga, trátese de furgón o plataforma de estacas.
+    </string>
+    <string name="infr_d04">
+        D04: No detenerse ante una luz roja o amarilla de semáforo, una señal de “PARE” o un
+        semáforo intermitente en rojo.
+    </string>
+    <string name="infr_d05">
+        D05: Conducir un vehículo sobre aceras, plazas, vías peatonales, separadores, bermas,
+        demarcaciones de canalización, zonas verdes o vías especiales para vehículos no motorizados.
+    </string>
+    <string name="infr_d07">
+        D07: Conducir realizando maniobras altamente peligrosas, siempre y cuando la maniobra viole
+        las normas de tránsito que pongan en peligro a las personas o las cosas y que constituyan
+        conductas dolosas o altamente imprudentes.
+    </string>
+
+    <!--fragment_movil_point-->
+    <string name="title_mp">Radares</string>
+    <string name="ubicaicon_t_mp">Ubicación</string>
+    <string name="detalles_t_mp">Detalles</string>
+    <string name="today_d_mp">Hoy</string>
+    <string name="tomorrow_d_mp">Mañana</string>
+    <string name="direccion_d_mp">Dirección</string>
+    <string name="sentido_d_mp">Sentido</string>
+    <string name="actaulizar_btn">Actualizar</string>
+
+    <string name="infraccion_t_mp">Infracción</string>
+    <string name="infr_c29">C29: Conducir un vehículo a velocidad superior a la máxima permitida.</string>
+
+    <string name="sast_1_mp">Av 10 Calle 51, Colegio Comfanorte</string>
+    <string name="sast_2_mp">Av 10 Calle 10, Once de Noviembre</string>
+    <string name="sast_3_mp">Av 10 Calle k53, Pisareal</string>
+    <string name="sast_4_mp">Av 10 Urbanizacion Montebello, Montebello</string>
+
+    <string name="up_direction_mp"> Sentido Cúcuta - Pamplona</string>
+    <string name="down_direction_mp"> Sentido Pamplona - Cúcuta</string>
+
+    <!--fragment_contact_us-->
+    <string name="contacto_t_cu">Contacto</string>
+    <string name="horario_t_cu">Horario de atención:</string>
+    <string name="horario_1_d_cu">Lunes a viernes</string>
+    <string name="horario_2_d_cu">7:00 am a 12:00 m</string>
+    <string name="horario_3_d_cu">2:00 pm a 6:00 pm</string>
+    <string name="nit_t_cu">NIT:</string>
+    <string name="nit_d_cu">900.812.782-0</string>
+    <string name="direccion_t_cu">Dirección:</string>
+    <string name="direccion_1_d_cu">Av 10 #29-03 Local 301, Edificio Agora.</string>
+    <string name="direccion_2_d_cu">Los Patios, Norte de Santander, Colombia.</string>
+    <string name="telefono_t_cu">Lineas de atención:</string>
+    <string name="telefono_d_cu">Telf: 5956461</string>
+    <string name="celular_d_cu">Cel: 3022719839</string>
+    <string name="correo_t_cu">Correo electrónico:</string>
+    <string name="correo_d_cu">contacto@proyectovialpatios.com</string>
+
+    <string name="title_sv">Seguridad Vial</string>
+    <string name="volver_btn_sv">Volver</string>
+
+    <string name="title_ac">Indices de accidentalidad</string>
+    <string name="title_th">Talento humano</string>
+    <string name="title_sm">Red semaforica</string>
+    <string name="title_ly">Marco Legal</string>
+    <string name="title_rc">Recaudo</string>
+
+</resources>

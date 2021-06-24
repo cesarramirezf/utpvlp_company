@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_t">25sp</dimen>
+    <dimen name="title_m_t">35sp</dimen>
+    <dimen name="title_2_t">20sp</dimen>
+    <dimen name="description_t">15sp</dimen>
+
+    <dimen name="ut_ss">40sp</dimen>
+    <dimen name="pvlptv_ss">30sp</dimen>
+    <dimen name="de_ss">25sp</dimen>
+
+    <dimen name="logo_size">100dp</dimen>
+    <dimen name="speed_limit">80dp</dimen>
+
+    <dimen name="margin_top_general">10dp</dimen>
+    <dimen name="margin_top_company">8dp</dimen>
+    <dimen name="margin_top_title">25dp</dimen>
+    <dimen name="margin_top_title2">35dp</dimen>
+    <dimen name="margin_horizontal_general">10dp</dimen>
+    <dimen name="title_with">280dp</dimen>
+    <dimen name="view_height">1dp</dimen>
+    <dimen name="view_height_2">2dp</dimen>
+
+    <dimen name="corner_r">20dp</dimen>
+    <dimen name="card_e">6dp</dimen>
+    <dimen name="margin_card">2dp</dimen>
+    <dimen name="margin_card_intern">10dp</dimen>
+    <dimen name="margin_card_bottom">5dp</dimen>
+
+    <dimen name="view_bottom">60dp</dimen>
+    <dimen name="view_bottom_top">55dp</dimen>
+
+    <dimen name="with_im_co">250dp</dimen>
+    <dimen name="height_im_co">100dp</dimen>
+
+    <dimen name="logo_toolbar">50dp</dimen>
+</resources>
